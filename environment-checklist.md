@@ -12,6 +12,10 @@
 - [x] File operations (`touch`, `mkdir`, `rm`, `cp`, `mv`)
 - [x] Aliases (e.g., `alias gs='git status'`)
 
-## Deliverables
-- [x] Checklist created in Markdown
-- [x] Committed to `onboarding-tools` GitHub repository
+
+## 📚 Resources
+- [VS Code Docs](https://code.visualstudio.com/docs)
+- [.NET Install](https://dotnet.microsoft.com/en-us/download/dotnet)
+- [Node.js Docs](https://nodejs.org/en/docs/)
+- [Git Downloads/Docs](https://git-scm.com/doc)
+- [Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
